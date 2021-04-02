@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VarshaSajja
 - 👀 I’m interested in travelling, programming, visualization, mentoring
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning applications
 - 💞️ I’m looking to collaborate on nascent inspiring technologies
 - 📫 Reach me via., GitHub only
 
